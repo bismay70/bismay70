@@ -5,7 +5,7 @@
   <div align="left">
     <img src="https://readme-typing-svg.herokuapp.com?lines=CS+Student+at+NIT+Rourkela;Exploring+ML+and+Web+Development;Passionate+About+Tech+and+Life+🌱;Curious+Mind+in+the+Tech+Universe+🌌" />
   </div>
-  <div>
+  <div align='right'>
     <img alt="L" width="250" src="https://giffiles.alphacoders.com/147/147103.gif"/>
   </div>
 </div>
@@ -13,7 +13,7 @@
  ---
  
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Samay" width="100%" height="280px" style="border-radius: 8px; margin: 20px 0;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Samay" width="100%" height="350px" style="border-radius: 8px; margin: 20px 0;"/>
 </div>
 
 ---
