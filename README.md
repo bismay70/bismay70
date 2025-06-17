@@ -1,7 +1,9 @@
  <h1 align="center">Hola 👋, I'm <span style="color:#FF6F61">Bismay</span></h1>
 
  ---
-<img alt="L from Death Note" width="320" align="right" src="https://i.imgur.com/bJgFZ5i.gif"/>
+<p align="center">
+  <img src="https://i.imgur.com/LpXvUk1.png" alt="Infinity Quote Banner" width="100%"/>
+</p>
 
 
  ### 🌟 About Me
