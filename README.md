@@ -1,6 +1,7 @@
  <h1 align="center">Hola 👋, I'm <span style="color:#FF6F61">Bismay</span></h1>
 
  ---
+<img alt="L" width="420" align="right" src="https://i.pinimg.com/originals/f4/e0/7b/f4e07bdf1c70ce3f6a5df1f149fcf234.gif"/>
 
  ### 🌟 About Me
 
@@ -31,12 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bismay70&show_icons=true&theme=tokyonight"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bismay70&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bismay70&theme=tokyonight"/>
 </p>
 
 ---
