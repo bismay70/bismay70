@@ -2,6 +2,7 @@
 
  ---
 
+<img alt="L from Death Note" width="320" align="right" src="https://gist.githubusercontent.com/anudit/9862d3c12aec5581a5a8b2b620205994/raw/main-l.gif"/>
 
 
  ### 🌟 About Me
