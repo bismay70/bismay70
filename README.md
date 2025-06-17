@@ -1,9 +1,14 @@
  <h1 align="center">Hola 👋, I'm <span style="color:#FF6F61">Bismay</span></h1>
+ 
+<img alt="L" width="320" align="right" src="https://giffiles.alphacoders.com/147/147103.gif"/>
 
  ---
+ 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Samay" width="100%" style="border-radius: 8px; margin: 20px 0;"/>
+</div>
 
-<img alt="L" width="320" align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/>
-
+---
 
  ### 🌟 About Me
 
