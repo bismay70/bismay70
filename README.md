@@ -1,7 +1,8 @@
  <h1 align="center">Hola 👋, I'm <span style="color:#FF6F61">Bismay</span></h1>
 
  ---
-<img alt="L" width="420" align="right" src="https://i.pinimg.com/originals/f4/e0/7b/f4e07bdf1c70ce3f6a5df1f149fcf234.gif"/>
+<img alt="L from Death Note" width="320" align="right" src="https://i.imgur.com/bJgFZ5i.gif"/>
+
 
  ### 🌟 About Me
 
