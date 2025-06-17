@@ -2,7 +2,7 @@
 
  ---
 
-<img alt="L" width="320" align="right" src="[https://gist.githubusercontent.com/anudit/9862d3c12aec5581a5a8b2b620205994/raw/main-l.gif](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)"/>
+<img alt="L" width="320" align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/>
 
 
  ### 🌟 About Me
