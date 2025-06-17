@@ -23,4 +23,26 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bismay70&show_icons=true&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bismay70&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bismay70&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bismay70&color=blue" alt="Profile Views"/>
+  <br/>
+  <i>Let’s build something useful</i>
+</p>
