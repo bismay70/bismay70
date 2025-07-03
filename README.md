@@ -4,7 +4,7 @@
  <div align="center" style="display: flex; align-items: center; justify-content: space-between;">
   <div align="left" text='center'>
    <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F7C41E&center=true&vCenter=true&width=800&height=50&lines=Exploring+Web+Dev,+ML,+Robotics;Loves+Food,+Coding,+Maths,+Novels,+Movies;Passionate+About+Tech+and+Life+🌱" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=#52357B&center=true&vCenter=true&width=800&height=50&lines=Exploring+Web+Dev,+ML,+Robotics;Loves+Food,+Coding,+Maths+📖,+Novels,+Movies;Passionate+About+Tech+and+Life+🌱" 
   alt="Typing SVG"
 />
 
@@ -22,7 +22,7 @@
 
 ---
 
- ### 🌟 About Me
+ ### 🌟😊 About Me
 
 - 🎓 Sophomore Computer Science student at *NIT Rourkela*
 - 🌐 Exploring the world of *Full-Stack Web Development*
@@ -30,7 +30,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻✍️🛠️ Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,6 +57,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bismay70&color=blue" alt="Profile Views"/>
-  <br/>
-  <i>Every line of code tells a story 📖</i>
 </p>
