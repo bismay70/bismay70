@@ -3,7 +3,11 @@
  ---
  <div align="center" style="display: flex; align-items: center; justify-content: space-between;">
   <div align="left" text='center'>
-    <img src="https://readme-typing-svg.herokuapp.com?lines=CS+Student+at+NIT+Rourkela;Exploring+ML+and+Web+Development;Passionate+About+Tech+and+Life+🌱;Curious+Mind+in+the+Tech+Universe+🌌" />
+   <img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F7C41E&center=true&vCenter=true&width=800&height=50&lines=Exploring+Web+Dev,+ML,+Robotics;Loves+Food,+Coding,+Maths,+Novels,+Movies;Passionate+About+Tech+and+Life+🌱" 
+  alt="Typing SVG"
+/>
+
   </div>
   <div align='right'>
     <img alt="L" width="250" src="https://giffiles.alphacoders.com/147/147103.gif"/>
