@@ -10,14 +10,14 @@
     />
   </div>
   <div align='right'>
-    <img alt="L" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+    <img  width="250" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
   </div>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" 
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
        alt="Samay" width="100%" height="380px" 
        style="border-radius: 8px; margin: 20px 0;"/>
 </div>
@@ -38,7 +38,10 @@
 
 ### 🚀 Web & Languages
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -69,46 +72,38 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bismay70&repo=Dictionary-App&theme=tokyonight" />
 </a>
 
-<a href="[https://github.com/bismay70/PROJECT3](https://github.com/bismay70/Weather-App)">
+<a href="https://github.com/bismay70/Weather-App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bismay70&repo=Weather-App&theme=tokyonight" />
 </a>
 
-
-
 </div>
-
 
 ---
 
-## 📊 GitHub Stats
+## 📝 GitHub Metrics (Theme 2077)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bismay70&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bismay70&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bismay70&theme=2077" alt="GitHub Metrics" />
 </p>
 
 ---
 
-## 🔝 Top Languages Used
+## 📊 Detailed GitHub Stats
 
-<div align="center">
-
-### 🧩 By Repository Count
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bismay70&theme=tokyonight" />
-
-### 📘 By Commit Percentage
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bismay70&theme=tokyonight" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bismay70&theme=2077" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bismay70&theme=2077" alt="Most Commit Language" />
+</p>
 
 ---
 
-## 📈 GitHub Metrics
+## 📈 GitHub Contributions & Activity
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/bismay70?template=classic&isocalendar=1&languages=1&lines=1&activity=1&followup=1&stars=1&base=header,activity,community,repositories&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bismay70&theme=tokyonight" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=bismay70&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
