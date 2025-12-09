@@ -51,7 +51,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" />
   <img src="https://logo.svgcdn.com/l/raspberry-pi.svg" width="50" />
   <img src="https://logo.svgcdn.com/logos/opencv.svg" width="50" />
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gazebo_logo.svg/768px-Gazebo_logo.svg.png?20211005181125](https://imgs.search.brave.com/ZMj339YJdT6G9xMWg7TbzhDdi_aIQ2MxApFDdhEStAY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jbGFz/c2ljLmdhemVib3Np/bS5vcmcvYXNzZXRz/L2dhemVib192ZXJ0/LWFmMGEwYWRhMjA0/YjQyYjZkYWNhNTRl/OTg3NjY5NzllNDVl/MDExZWEyMjM0N2Zm/ZTkwNTgwNDU4NDc2/ZDI2ZDYucG5n)" width="50" />
+  <img src="https://imgs.search.brave.com/ZMj339YJdT6G9xMWg7TbzhDdi_aIQ2MxApFDdhEStAY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jbGFz/c2ljLmdhemVib3Np/bS5vcmcvYXNzZXRz/L2dhemVib192ZXJ0/LWFmMGEwYWRhMjA0/YjQyYjZkYWNhNTRl/OTg3NjY5NzllNDVl/MDExZWEyMjM0N2Zm/ZTkwNTgwNDU4NDc2/ZDI2ZDYucG5n" width="50" />
   <img src="https://imgs.search.brave.com/_RDftISV6Iju8WW4vbIW5PTPv0tfBADHJK7Y2R_TrTc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vbTVDcTFa/NXFQUEVDd0hZQzg2/UWJqajRuLVQ4MzB0/NjB6b2hvTW1SMndX/OC9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTl5/WVhjdS9aMmwwYUhW/aWRYTmxjbU52L2Ju/UmxiblF1WTI5dEwz/SnYvY3kxMmFYTjFZ/V3hwZW1GMC9hVzl1/TDNKMmFYb3ZibTls/L2RHbGpMV1JsZG1W/c0wybHQvWVdkbGN5/OXpjR3hoYzJndS9j/RzVu" width="50" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" />
@@ -59,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" />
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg](https://imgs.search.brave.com/P77vz8f_CSDPRp_02Y9kyUC1lz8r_FePsp7pa7fY7AU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmdo/ZHByby5jb20vd3At/Y29udGVudC90aGVt/ZXMvcG5naGRwcm8v/ZG93bmxvYWQvc29j/aWFsLW1lZGlhLWFu/ZC1icmFuZHMvbmV4/dC1qcy1sb2dvLWlj/b24ucG5n)" width="50" />
+  <img src="https://imgs.search.brave.com/P77vz8f_CSDPRp_02Y9kyUC1lz8r_FePsp7pa7fY7AU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmdo/ZHByby5jb20vd3At/Y29udGVudC90aGVt/ZXMvcG5naGRwcm8v/ZG93bmxvYWQvc29j/aWFsLW1lZGlhLWFu/ZC1icmFuZHMvbmV4/dC1qcy1sb2dvLWlj/b24ucG5n" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
