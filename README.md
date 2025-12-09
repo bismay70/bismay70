@@ -2,17 +2,23 @@
 
 ---
 
-<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
-  <div align="left" text='center'>
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4200&pause=500&color=7BAFD4&center=true&vCenter=true&width=850&height=50&lines=AI+%26+ML+Enthusiast;Robotics+Explorer;Full-Stack+Web+Developer;Loves+Food,+Coding,+Maths,+Novels,+Movies;Passionate+About+Tech+and+Life+🌱" 
-      alt="Typing SVG"
-    />
-  </div>
-  <div align='right'>
-    <img width="250" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
-  </div>
-</div>
+<table align="center" width="100%">
+<tr>
+<td width="40%" align="center">
+
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4200&pause=500&color=7BAFD4&center=true&vCenter=true&width=450&height=50&lines=AI+%26+ML+Enthusiast;Robotics+Explorer;Full-Stack+Web+Developer;Tech+Lover+%F0%9F%92%9A"
+/>
+
+</td>
+<td width="60%" align="center">
+
+<img width="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -38,8 +44,9 @@
 ### 💻 Languages, Frameworks, Tools & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,js,ts,html,css,react,nextjs,tailwind,git,github,linux,docker,express,mongodb,postgres,arduino,opencv,py,pytorch,tensorflow,sklearn,numpy,pandas,gsap" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,js,ts,html,css,react,nextjs,tailwind,git,github,linux,docker,express,mongodb,postgres,arduino" />
 </p>
+
 
 ---
 
