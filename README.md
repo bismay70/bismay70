@@ -22,7 +22,6 @@
 </tr>
 </table>
 
-
 ---
 
 <div align="center">
@@ -38,18 +37,69 @@
 - 🎓 Sophomore Computer Science student at **NIT Rourkela**
 - 🤖 Exploring **AI/ML** and **Robotics**
 - 🌐 Building cool things in **Full-Stack Web Development**
-- 💡 Currently working on:  
-  Dynamic web apps, automation tools, ML models, robotics 
+- 💡 Currently working on: Dynamic web apps, automation tools, ML models, robotics
 
 ---
 
-## 🛠️ Tech Stack  
+# 🛠️ Tech Stack  
 ### 💻 Languages, Frameworks, Tools & Libraries
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,js,html,css,git,docker,linux,tensorflow,pytorch,arduino" alt="Tech Stack Icons" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="100%">
 
+<!-- FIRST ROW -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="55" height="55"/>
+<img src="https://imgs.search.brave.com/PXZFmdU5v5Xq-iaD7Z_myfkbBhVAcbyMnxROJym9O0Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91czEuZGlzY291cnNlLWNkbi5jb20vZmxleDAyMi91cGxvYWRzL3Jvcy9vcHRpbWl6ZWQvMlgvYy9jMmRmZTRhNjgzNjU2OWNiZWE3MmFkOGMxMzkyNjZiNDQzNGU3OTYwXzJfNDAweDQ5OS5qcGVn" width="55" height="55"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="55" height="55"/>
+<img src="https://logo.svgcdn.com/l/raspberry-pi.svg" width="55" height="55"/>
+
+<br><br>
+
+<!-- SECOND ROW -->
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="55" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gazebo_logo.svg/768px-Gazebo_logo.svg.png?20211005181125" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="55" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="55"/>
+
+<br><br>
+
+<!-- THIRD ROW -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55" height="55"/>
+
+<br><br>
+
+<!-- FOURTH ROW -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" height="55"/>
+
+<br><br>
+
+<!-- FIFTH ROW -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="55" height="55"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -58,15 +108,15 @@
 <div align="center">
 
 <a href="https://github.com/bismay70/Pokiverse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bismay70&repo=Pokiverse&theme=tokyonight" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=bismay70&repo=Pokiverse&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/bismay70/Dictionary-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bismay70&repo=Dictionary-App&theme=tokyonight" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=bismay70&repo=Dictionary-App&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/bismay70/Weather-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bismay70&repo=Weather-App&theme=tokyonight" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=bismay70&repo=Weather-App&theme=tokyonight" />
 </a>
 
 </div>
