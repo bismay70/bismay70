@@ -37,36 +37,46 @@
 - 🎓 Sophomore Computer Science student at **NIT Rourkela**
 - 🤖 Exploring **AI/ML** and **Robotics**
 - 🌐 Building cool things in **Full-Stack Web Development**
-- 💡 Currently working on:  
-  Dynamic web apps, automation tools, ML models, robotics experiments
+- 💡 Currently working on:  Dynamic web apps, automation tools, ML models, robotics experiments
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,sqlite,tensorflow,pytorch,opencv,pandas,numpy,sklearn,git,docker,linux,arduino,raspberrypi,figma" alt="Tech Stack Icons" style="width:100%; max-width:1200px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
+  <img src="https://imgs.search.brave.com/PXZFmdU5v5Xq-iaD7Z_myfkbBhVAcbyMnxROJym9O0Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91czEu/ZGlzY291cnNlLWNk/bi5jb20vZmxleDAy/Mi91cGxvYWRzL3Jv/cy9vcHRpbWl6ZWQv/MlgvYy9jMmRmZTRh/NjgzNjU2OWNiZWE3/MmFkOGMxMzkyNjZi/NDQzNGU3OTYwXzJf/NDAweDQ5OS5qcGVn" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" />
+  <img src="https://logo.svgcdn.com/l/raspberry-pi.svg" width="50" />
+  <img src="https://logo.svgcdn.com/logos/opencv.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gazebo_logo.svg/768px-Gazebo_logo.svg.png?20211005181125" width="50" />
+  <img src="https://imgs.search.brave.com/_RDftISV6Iju8WW4vbIW5PTPv0tfBADHJK7Y2R_TrTc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vbTVDcTFa/NXFQUEVDd0hZQzg2/UWJqajRuLVQ4MzB0/NjB6b2hvTW1SMndX/OC9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTl5/WVhjdS9aMmwwYUhW/aWRYTmxjbU52L2Ju/UmxiblF1WTI5dEwz/SnYvY3kxMmFYTjFZ/V3hwZW1GMC9hVzl1/TDNKMmFYb3ZibTls/L2RHbGpMV1JsZG1W/c0wybHQvWVdkbGN5/OXpjR3hoYzJndS9j/RzVu" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" />
 </p>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/bismay70/Pokiverse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bismay70&repo=Pokiverse&theme=tokyonight" width="280"/>
-</a>
-
-<a href="https://github.com/bismay70/Dictionary-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bismay70&repo=Dictionary-App&theme=tokyonight" width="280"/>
-</a>
-
-<a href="https://github.com/bismay70/Weather-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bismay70&repo=Weather-App&theme=tokyonight" width="280"/>
-</a>
-
-</div>
 
 ---
 
