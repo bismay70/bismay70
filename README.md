@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
-       alt="Samay" width="100%" height="480px" 
+       alt="Samay" width="100%" height="580px" 
        style="border-radius: 8px; margin: 20px 0;"/>
 </div>
 
@@ -44,7 +44,7 @@
 ### 💻 Languages, Frameworks, Tools & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,js,ts,html,css,react,nextjs,tailwind,git,github,linux,docker,express,mongodb,postgres,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,ts,go,js,html,css,git,docker,linux,tensorflow,pytorch,arduino" alt="Tech Stack Icons" />
 </p>
 
 
