@@ -4,18 +4,21 @@
 
 <table align="center" width="100%">
 <tr>
+
 <td width="40%" align="center">
 
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4200&pause=500&color=7BAFD4&center=true&vCenter=true&width=450&height=50&lines=AI+%26+ML+Enthusiast;Robotics+Explorer;Full-Stack+Web+Developer;Tech+Lover+%F0%9F%92%9A"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4200&pause=500&color=7BAFD4&center=true&vCenter=true&width=520&height=60&lines=AI+%26+ML+Enthusiast;Robotics+Explorer;Full-Stack+Web+Developer;Tech+Lover+💚"
 />
 
 </td>
+
 <td width="60%" align="center">
 
-<img width="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -44,7 +47,7 @@
 ### 💻 Languages, Frameworks, Tools & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,ts,go,js,html,css,git,docker,linux,tensorflow,pytorch,arduino" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,js,html,css,git,docker,linux,tensorflow,pytorch,arduino" alt="Tech Stack Icons" />
 </p>
 
 
