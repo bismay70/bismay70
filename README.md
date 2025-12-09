@@ -10,7 +10,7 @@
     />
   </div>
   <div align='right'>
-    <img  width="250" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
+    <img width="250" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
   </div>
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
-       alt="Samay" width="100%" height="380px" 
+       alt="Samay" width="100%" height="480px" 
        style="border-radius: 8px; margin: 20px 0;"/>
 </div>
 
@@ -30,33 +30,16 @@
 - 🤖 Exploring **AI/ML** and **Robotics**
 - 🌐 Building cool things in **Full-Stack Web Development**
 - 💡 Currently working on:  
-  Dynamic web apps, automation tools, ML models, robotics experiments
+  Dynamic web apps, automation tools, ML models, robotics 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
+### 💻 Languages, Frameworks, Tools & Libraries
 
-### 🚀 Web & Languages
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### 🧠 AI/ML & Data
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🗄️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,js,ts,html,css,react,nextjs,tailwind,git,github,linux,docker,express,mongodb,postgres,arduino,opencv,py,pytorch,tensorflow,sklearn,numpy,pandas,gsap" />
+</p>
 
 ---
 
@@ -80,28 +63,22 @@
 
 ---
 
-## 📝 GitHub Metrics (Theme 2077)
+## 📝 GitHub Metrics 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bismay70&theme=2077" alt="GitHub Metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bismay70&theme=2077" />
 </p>
 
 ---
 
-## 📊 Detailed GitHub Stats
+## 📊 Top Languages & Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bismay70&theme=2077" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bismay70&theme=2077" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bismay70&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bismay70&theme=2077" />
 </p>
 
----
-
-## 📈 GitHub Contributions & Activity
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bismay70&theme=tokyonight" />
-  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=bismay70&show_icons=true&theme=tokyonight" />
 </p>
 
@@ -110,8 +87,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bismay70&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=bismay70&style=for-the-badge&color=blue"/>
   <br><br>
   <img src="https://profile-counter.glitch.me/bismay70/count.svg" />
 </p>
-
