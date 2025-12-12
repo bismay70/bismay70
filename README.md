@@ -57,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" />
   <img src="https://imgs.search.brave.com/PXZFmdU5v5Xq-iaD7Z_myfkbBhVAcbyMnxROJym9O0Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91czEu/ZGlzY291cnNlLWNk/bi5jb20vZmxleDAy/Mi91cGxvYWRzL3Jv/cy9vcHRpbWl6ZWQv/MlgvYy9jMmRmZTRh/NjgzNjU2OWNiZWE3/MmFkOGMxMzkyNjZi/NDQzNGU3OTYwXzJf/NDAweDQ5OS5qcGVn" width="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" />
+  <!-- <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" />
   <img src="https://logo.svgcdn.com/l/raspberry-pi.svg" width="50" />
   <img src="https://logo.svgcdn.com/logos/opencv.svg" width="50" />
   <img src="https://imgs.search.brave.com/ZMj339YJdT6G9xMWg7TbzhDdi_aIQ2MxApFDdhEStAY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jbGFz/c2ljLmdhemVib3Np/bS5vcmcvYXNzZXRz/L2dhemVib192ZXJ0/LWFmMGEwYWRhMjA0/YjQyYjZkYWNhNTRl/OTg3NjY5NzllNDVl/MDExZWEyMjM0N2Zm/ZTkwNTgwNDU4NDc2/ZDI2ZDYucG5n" width="50" />
@@ -69,8 +69,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" />
-
- 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" />
@@ -78,7 +76,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" />
-  
+   -->
 
 </p>
 
