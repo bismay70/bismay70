@@ -57,15 +57,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" />
   <img src="https://imgs.search.brave.com/PXZFmdU5v5Xq-iaD7Z_myfkbBhVAcbyMnxROJym9O0Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91czEu/ZGlzY291cnNlLWNk/bi5jb20vZmxleDAy/Mi91cGxvYWRzL3Jv/cy9vcHRpbWl6ZWQv/MlgvYy9jMmRmZTRh/NjgzNjU2OWNiZWE3/MmFkOGMxMzkyNjZi/NDQzNGU3OTYwXzJf/NDAweDQ5OS5qcGVn" width="50" />
+  <img src="https://logo.svgcdn.com/logos/opencv.svg" width="50" />
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
   <!-- <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" />
   <img src="https://logo.svgcdn.com/l/raspberry-pi.svg" width="50" />
-  <img src="https://logo.svgcdn.com/logos/opencv.svg" width="50" />
   <img src="https://imgs.search.brave.com/ZMj339YJdT6G9xMWg7TbzhDdi_aIQ2MxApFDdhEStAY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jbGFz/c2ljLmdhemVib3Np/bS5vcmcvYXNzZXRz/L2dhemVib192ZXJ0/LWFmMGEwYWRhMjA0/YjQyYjZkYWNhNTRl/OTg3NjY5NzllNDVl/MDExZWEyMjM0N2Zm/ZTkwNTgwNDU4NDc2/ZDI2ZDYucG5n" width="50" />
   <img src="https://imgs.search.brave.com/_RDftISV6Iju8WW4vbIW5PTPv0tfBADHJK7Y2R_TrTc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vbTVDcTFa/NXFQUEVDd0hZQzg2/UWJqajRuLVQ4MzB0/NjB6b2hvTW1SMndX/OC9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTl5/WVhjdS9aMmwwYUhW/aWRYTmxjbU52L2Ju/UmxiblF1WTI5dEwz/SnYvY3kxMmFYTjFZ/V3hwZW1GMC9hVzl1/TDNKMmFYb3ZibTls/L2RHbGpMV1JsZG1W/c0wybHQvWVdkbGN5/OXpjR3hoYzJndS9j/RzVu" width="50" />
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" />
