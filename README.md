@@ -33,12 +33,13 @@
 
 ---
 
-## 😊 About Me
+😎 About Me
+- 🎓 Sophomore Computer Science student at NIT Rourkela
+- 🌐 Passionate about Full‑Stack Web Development — from sleek frontends to scalable backends
+- 🤖 Exploring the world of AI/ML and Robotics, blending software with intelligence
+- 💡 Interested in Computer Science fundamentals and sharpening skills through Competitive Programming
+- 🚀 Currently working on: dynamic web apps, automation tools, ML models, and robotics projects
 
-- 🎓 Sophomore Computer Science student at **NIT Rourkela**
-- 🤖 Exploring **AI/ML** and **Robotics**
-- 🌐 Building cool things in **Full-Stack Web Development**
-- 💡 Currently working on:  Dynamic web apps, automation tools, ML models, robotics 
 
 ---
 
@@ -61,6 +62,7 @@
   <img src="https://logo.svgcdn.com/logos/opencv.svg" width="50" />
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" />
@@ -76,7 +78,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" />
    -->
 
 </p>
