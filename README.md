@@ -83,13 +83,10 @@
 </p>
 
 
----
 
-## 📝 GitHub Metrics 
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bismay70&theme=2077" />
-</p>
+</p> -->
 
 ---
 
