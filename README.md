@@ -67,9 +67,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" />
+  <!-- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" /> -->
   <!-- <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" />
   <img src="https://logo.svgcdn.com/l/raspberry-pi.svg" width="50" />
   <img src="https://imgs.search.brave.com/ZMj339YJdT6G9xMWg7TbzhDdi_aIQ2MxApFDdhEStAY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jbGFz/c2ljLmdhemVib3Np/bS5vcmcvYXNzZXRz/L2dhemVib192ZXJ0/LWFmMGEwYWRhMjA0/YjQyYjZkYWNhNTRl/OTg3NjY5NzllNDVl/MDExZWEyMjM0N2Zm/ZTkwNTgwNDU4NDc2/ZDI2ZDYucG5n" width="50" />
