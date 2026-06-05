@@ -40,7 +40,7 @@ I specialize in full‑stack web development while exploring AI/ML and robotics.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,nestjs,python,django,flask,fastapi,graphql,mysql,postgresql,mongodb,firebase,supabase,prisma,docker,kubernetes,aws,gcp,linux,git,github,gitlab,figma,postman,tensorflow,opencv,scikitlearn,pandas" />
+<img src=" https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,expres" />
 
 <!-- <img src="https://imgs.search.brave.com/PXZFmdU5v5Xq-iaD7Z_myfkbBhVAcbyMnxROJym9O0Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91czEu/ZGlzY291cnNlLWNk/bi5jb20vZmxleDAy/Mi91cGxvYWRzL3Jv/cy9vcHRpbWl6ZWQv/MlgvYy9jMmRmZTRh/NjgzNjU2OWNiZWE3/MmFkOGMxMzkyNjZi/NDQzNGU3OTYwXzJf/NDAweDQ5OS5qcGVn" width="50" />
 
