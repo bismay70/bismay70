@@ -37,7 +37,7 @@ I specialize in full‑stack web development while exploring AI/ML and robotics.
 
 ## 🛠️ Technical Ecosystem
 
-<div align="center">
+<!-- <div align="center">
 
 | 💻 Languages | 🌐 Full Stack | 🤖 AI / ML |
 |:--:|:--:|:--:|
@@ -47,7 +47,7 @@ I specialize in full‑stack web development while exploring AI/ML and robotics.
 
 | ☁️ Cloud & DevOps | 🗄️ Databases | 🧰 Developer Tools |
 |:--:|:--:|:--:|
-| <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,linux,nginx,git&perline=4"/> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase,prisma&perline=4"/> | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,git,github,gitlab&perline=5"/> |
+| <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,linux,nginx,git&perline=4"/> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase,prisma&perline=4"/> | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,git,github,gitlab&perline=5"/> | -->
 
 </div>
 
