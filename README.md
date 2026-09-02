@@ -2,7 +2,9 @@
 <h3 align="center">
 I specialize in full‑stack web development while exploring AI/ML and robotics. My interests span computer science fundamentals, competitive programming, and building systems that integrate software and intelligence seamlessly.
 </h3> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=180&section=header&text=Bismay%20Samal&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Pre-Final%20Year%20CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML&descAlignY=60&descSize=20" width="1020" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=180&section=header&text=Bismay%20Samal&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Pre-Final%20Year%20CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML&descAlignY=60&descSize=20" width="1020" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EED9A6&height=180&section=header&text=Bismay%20Samal&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Pre-Final%20Year%20CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML&descAlignY=60&descSize=20" width="1020" />
+
 
 <table align="center" width="100%">
 <tr>
