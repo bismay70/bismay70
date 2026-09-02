@@ -15,8 +15,8 @@ I specialize in full‑stack web development while exploring AI/ML and robotics.
 
 <td width="60%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" style="border-radius:8px;"/>
-
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" style="border-radius:8px;"/> -->
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2IxZ2kwaGduN2NueDdseWRtdnhsdGQwMXpieDF3b2V0anpqeW52aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="100%" style="border-radius:8px;"/>  
 </td>
 
 </tr>
