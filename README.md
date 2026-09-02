@@ -11,7 +11,7 @@ I specialize in full‑stack web development while exploring AI/ML and robotics.
 
 <td width="40%" align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4200&pause=500&color=7BAFD4&center=true&vCenter=true&width=520&height=60&lines=Competitive+Programming;NestJS+%26+Backend+Dev;ML,+DL+%26+Agentic+AI;Web3+%26+Blockchain;Exploring+Robotics" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4200&pause=500&color=EED9A6&center=true&vCenter=true&width=520&height=60&lines=Competitive+Programming;NestJS+%26+Backend+Dev;ML,+DL+%26+Agentic+AI;Web3+%26+Blockchain;Exploring+Robotics" />
 
 </td>
 
