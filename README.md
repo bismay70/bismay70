@@ -3,22 +3,49 @@
 I specialize in full‑stack web development while exploring AI/ML and robotics. My interests span computer science fundamentals, competitive programming, and building systems that integrate software and intelligence seamlessly.
 </h3> -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=180&section=header&text=Bismay%20Samal&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Pre-Final%20Year%20CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML&descAlignY=60&descSize=20" width="1020" /> -->
+
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=EED9A6&height=180&section=header&text=Bismay%20Samal&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Pre-Final%20Year%20CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML&descAlignY=60&descSize=20" width="1020" />
 
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=EED9A6&center=true&vCenter=true&width=800&height=55&lines=Full-Stack+Developer;Competitive+Programmer;AI%2FML+%26+GenAI+Enthusiast;Building+Real-World+Products;Always+Learning+%7C+Always+Building" />
+
+</div>
+
+
+## 👨‍💻 About Me
 
 <table align="center" width="100%">
 <tr>
 
-<td width="40%" align="center">
+<td width="40%" valign="top">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4200&pause=500&color=EED9A6&center=true&vCenter=true&width=520&height=60&lines=Competitive+Programming;NestJS+%26+Backend+Dev;ML,+DL+%26+Agentic+AI;Web3+%26+Blockchain;Exploring+Robotics" />
+- 🎓 **B.Tech CSE @ NIT Rourkela** — 2024–2028
+- 💻 Passionate **Full-Stack Developer** building scalable web applications
+- ⚛️ Working with **React, Next.js, Node.js, Express & modern backend technologies**
+- ⚙️ Strong interest in **Backend Engineering, Distributed Systems, Cloud Computing & System Design**
+- 🧠 Building with **AI/ML, LLMs, Generative AI, RAG & Agentic AI**
+- 🤖 Exploring **Computer Vision, Robotics, ROS2, Intelligent Systems, Web3 & Blockchain**
+- 🛰️ Building real-world products through **hackathons, open-source & collaborative projects**
+- ⚡ **LeetCode:** 1000+ problems solved · **Max Rating: 1899**
+- 🚀 Currently seeking **Software Engineering, Backend, Full-Stack & AI/ML Internship opportunities**
+
+<br>
+
 
 </td>
 
-<td width="60%" align="center">
+<td width="60%" align="center" valign="middle">
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" style="border-radius:8px;"/> -->
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2IxZ2kwaGduN2NueDdseWRtdnhsdGQwMXpieDF3b2V0anpqeW52aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="100%" style="border-radius:8px;"/>  
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2IxZ2kwaGduN2NueDdseWRtdnhsdGQwMXpieDF3b2V0anpqeW52aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif"
+width="100%"
+height="100%"
+style="object-fit: cover; border-radius: 8px;"
+/>
+
 </td>
 
 </tr>
@@ -26,20 +53,12 @@ I specialize in full‑stack web development while exploring AI/ML and robotics.
 
 ---
 
-## 😎 About Me
-- 🎓 Pre-Final Year B.Tech Computer Science student at **NIT Rourkela**
-- 💻 Passionate Full-Stack Developer building scalable web applications from frontend to backend
-- ⚙️ Strong interest in Backend Engineering, Distributed Systems, Cloud Computing and System Design
-- 🤖 Exploring AI/ML, Computer Vision, Robotics and Intelligent Systems
-- 🛰️ Love building real-world products through hackathons, open-source contributions and collaborative projects
-- 🚀 Currently seeking Software Engineering, Backend, Full-Stack and AI/ML Internship opportunities
 
----
 
 
 ## 🛠️ Technical Ecosystem
 
-<!-- <div align="center">
+ <div align="center">
 
 | 💻 Languages | 🌐 Full Stack | 🤖 AI / ML |
 |:--:|:--:|:--:|
@@ -49,7 +68,7 @@ I specialize in full‑stack web development while exploring AI/ML and robotics.
 
 | ☁️ Cloud & DevOps | 🗄️ Databases | 🧰 Developer Tools |
 |:--:|:--:|:--:|
-| <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,linux,nginx,git&perline=4"/> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase,prisma&perline=4"/> | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,git,github,gitlab&perline=5"/> | -->
+| <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,linux,nginx,git&perline=4"/> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase,prisma&perline=4"/> | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,git,github,gitlab&perline=5"/> | 
 
 </div>
 
@@ -82,7 +101,7 @@ I specialize in full‑stack web development while exploring AI/ML and robotics.
 </p>
 
 ---
-
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=EED9A6&height=100&section=footer" width="100%" />
 
 <!-- <p align="center">
   <img src="https://profile-counter.glitch.me/bismay70/count.svg" />
