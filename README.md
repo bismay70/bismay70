@@ -38,7 +38,7 @@ I specialize in full‑stack web development while exploring AI/ML and robotics.
 
 </td>
 
-<td width="60%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2IxZ2kwaGduN2NueDdseWRtdnhsdGQwMXpieDF3b2V0anpqeW52aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif"
 width="100%"
